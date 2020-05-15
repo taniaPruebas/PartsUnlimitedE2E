@@ -3,7 +3,7 @@ using System.ComponentModel.DataAnnotations;
 
 namespace PartsUnlimited.Models
 {
-    //un cambio de prueba
+    //un cambio de prueba para pull
     public class Category
     {
         public int CategoryId { get; set; }
